@@ -1,7 +1,6 @@
 package com.yun.algorithm.sort.sortkata;
 
 import com.yun.algorithm.sort.DefaultSortAlgTemplate;
-import edu.princeton.cs.algs4.StdRandom;
 
 /**
  * @author Henry Gao
